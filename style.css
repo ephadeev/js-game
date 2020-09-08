@@ -1,0 +1,10 @@
+.car {
+    width: 260px;
+    height: 260px;
+    
+    background-image: url(./img/png-transparent-spacecraft-spaceshipone-space-craft-miscellaneous-fighter-aircraft-airplane.png);
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
